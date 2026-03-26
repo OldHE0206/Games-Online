@@ -3,9 +3,11 @@ Fuck U Maya 1st!!!
 
 翻译：Maya是我用过的最好的最棒的软件！！！
 
+
 AutoSort V3.0 is a professional asset management plugin designed for Autodesk Maya 2024, aimed at enhancing the efficiency and standardization of 3D asset management. The plugin integrates various functions such as file management, automatic naming, material creation, file conversion, and project management, making it suitable for asset management tasks in fields such as game development, film and television production, and 3D animation.
 
 AutoSort V3.0是一款为Autodesk Maya 2024设计的专业资产管理插件，旨在提升3D资产管理的效率和规范性。该插件集成了文件管理、自动命名、材质创建、文件转换、项目管理等多项功能，适用于游戏开发、影视制作、三维动画等领域的资产管理工作。
+
 
 Main Features：
 主要特点：
@@ -27,6 +29,7 @@ Project Management: Complete supplier-reviewer workflow management.
 
 Compliance Check: Automatically verifies compliance with file naming conventions.
 合规检查：自动验证文件命名规范的合规性
+
 
 After downloading the complete file, extract the AutoSort_Tool.rar archive to your local machine. Then, open the technical documentation contained in the extracted folder and follow the installation steps provided in the documentation to complete the plugin installation. For detailed functions and specific information, please refer to the subsequent sections of the documentation.
 
