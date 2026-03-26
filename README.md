@@ -27,3 +27,7 @@ Project Management: Complete supplier-reviewer workflow management.
 
 Compliance Check: Automatically verifies compliance with file naming conventions.
 合规检查：自动验证文件命名规范的合规性
+
+After downloading the complete file, extract the AutoSort_Tool.rar archive to your local machine. Then, open the technical documentation contained in the extracted folder and follow the installation steps provided in the documentation to complete the plugin installation. For detailed functions and specific information, please refer to the subsequent sections of the documentation.
+
+下载完整文件后，解压AutoSort_Tool.rar文件到本地，随后打开解压文件中的技术文档，按照技术文档中的安装步骤操作即可完成插件安装，详细功能及具体信息参见文档后续的说明。
